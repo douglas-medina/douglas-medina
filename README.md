@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @douglas-medina
 - 👀 I’m interested in Python Development
-- 🌱 I’m currently learning Django & Django Rest Framework
+- 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on Open Source Projects
 
 <!---
